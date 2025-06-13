@@ -1,0 +1,1 @@
+1. Application cpp-cmake-cl-semver has been successfully deployed!!
